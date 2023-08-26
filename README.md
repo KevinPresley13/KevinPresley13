@@ -8,7 +8,7 @@
 
 ![KevinPresley13 GitHub stats](https://github-readme-stats.vercel.app/api?username=KevinPresley13&show_icons=true&theme=dracula)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=KevinPresley13&theme=bear&background=000&border=30A3DC&dates=FFF)]
+![GitHub Streak](https://streak-stats.demolab.com/?user=KevinPresley13&theme=bear&background=000&border=30A3DC&dates=FFF)
 
 ## Tecnologias Favoritas: 
 
