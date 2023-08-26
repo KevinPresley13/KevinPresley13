@@ -7,7 +7,7 @@ mo
 
 ![KevinPresley13 GitHub stats](https://github-readme-stats.vercel.app/api?username=KevinPresley13&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinPresley13&layout=)](https://https://github.com/KevinPresley13)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=KevinPresley13&theme=bear&background=000&border=30A3DC&dates=FFF)]
 
 ## Tecnologias Favoritas: 
 
