@@ -1,7 +1,7 @@
 
 ### Olá! Eu sou o Kevin Presley!👋
 
-[![Meu Perfil na Dio](https://img.shields.io/badge/Meu_Perfil_na_DIO-000?style=for-the-badge&logologoColor=a44dda)](https://web.dio.me/users/kevinpresley1995?tab=skills)
+[![Meu Perfil na Dio](https://img.shields.io/badge/Meu_Perfil_na_DIO-a44dda?style=for-the-badge&logologoColor=a44dda)](https://web.dio.me/users/kevinpresley1995?tab=skills)
 [![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/kevin.presley.908)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-presley-12b490235/?trk=public-profile-join-page)
 [![intagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kevinpresleyoficial/)
